@@ -1,0 +1,11 @@
+# IDE and Text Editors
+/.idea
+/.vscode
+/.vs
+
+# Intermediate Files
+/Intermediates
+*.class
+
+# IntelliJ
+PureRenderer.iml
